@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px) {
+    /* Estilos para pantallas con anchura máxima de 768px (como celulares) */
+}
+
+@media screen and (min-width: 1024px) {
+    /* Estilos para pantallas con anchura mínima de 1024px (como computadoras) */
+}
+
+@media screen and (orientation: landscape) {
+    /* Estilos para pantallas en orientación horizontal (como tablets y computadoras) */
+}
+
+@media screen and (orientation: portrait) {
+    /* Estilos para pantallas en orientación vertical (como celulares) */
+}
